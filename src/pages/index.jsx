@@ -1,9 +1,10 @@
 import React from "react";
+import NavBar from '../components/Layout/index'
 
 function Home() {
   return (
     <div>
-      <h1>Hello world!</h1>
+      <NavBar />
     </div>
   );
 }
